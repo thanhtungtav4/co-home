@@ -1,0 +1,17 @@
+body{
+	font-family: &quot;Montserrat&quot;, sans-serif !important;
+}
+.owl-item .item .categories_box img{
+	width: 80%;
+    margin: 0 auto;
+}
+.owl-item .item .categories_box span.d-block{
+  	font-size: 1.6rem;
+    font-weight: 600;
+}
+.section--homepage .section__header h3{
+	text-align: left;
+    padding-bottom: 10px;
+  	font-family: &quot;Montserrat&quot;, sans-serif !important;
+  	font-size: 2rem;
+}

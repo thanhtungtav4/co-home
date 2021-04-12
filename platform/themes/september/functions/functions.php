@@ -352,7 +352,7 @@ if (is_plugin_active('ecommerce')) {
                 'current_paged' => (int)request()->input('page'),
             ],
         ]);
-
+            
         return Theme::partial('short-codes.all-products', [
             'title'    => $shortCode->title,
             'products' => $products,
